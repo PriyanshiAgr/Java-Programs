@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class P9_ternaryOperator {
+public class P09_ternaryOperator {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a number: ");
